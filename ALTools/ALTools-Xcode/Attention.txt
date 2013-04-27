@@ -1,0 +1,4 @@
+This is only an overlay Xcode (Xcode 3) project for convenience.
+The main development tasks should take place in the CMake dir, and this directory should _always_ be up to date, so that only the Xcode overlay needs to be updated when files are added, etc. 
+
+NOTE: you need to build the CMake Project first for Xcode to find the ALToolsConfig.h file

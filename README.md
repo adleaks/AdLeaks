@@ -31,9 +31,11 @@ Tools:
 
 ##### Build instructions:
 In the Folder *ALTools/ALTools* type
-	mkdir build
-	cmake ..
-	make
+
+    mkdir build
+    cd build
+    cmake ..
+    make
 
 #### Clients
 ##### Prerequisites

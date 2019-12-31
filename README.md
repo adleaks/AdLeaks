@@ -1,7 +1,7 @@
 AdLeaks
 =======
 
-AdLeaks is a secure submission system for online whistleblowing platforms. Please see [http://www.adleaks.org](http://www.adleaks.org) for more information.
+AdLeaks is a secure submission system for online whistleblowing platforms. Please see [https://www.inf.fu-berlin.de/groups/ag-si/](https://www.inf.fu-berlin.de/groups/ag-si/) for more information.
 
 ---
 
